@@ -13,12 +13,11 @@ I am also exploring Artificial Intelligence and its practical applications in so
 - **React**: Creating dynamic and interactive frontend components with reusable code.  
 
 ## Projects
-- Java Debug Demo – Sample project showing error fixes and debugging.  
 - Django App – Simple web application using Django.  
 - React Frontend – Small project with a functional React interface.  
 - AI Demo – A beginner-level experiment with Python machine learning.
 
 ## Contact
-Email: your@email.com  
+Email: arshdoobla@gmail.com
 LinkedIn: https://www.linkedin.com/in/arsh-arsh-023160355/  
-GitHub: https://github.com/your-username
+GitHub: https://github.com/alanVonNeuman
